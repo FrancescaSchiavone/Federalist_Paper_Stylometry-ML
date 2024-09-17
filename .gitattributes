@@ -1,0 +1,4 @@
+venv/Lib/site-packages/en_core_web_trf/en_core_web_trf-3.7.3/transformer/model filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/en_core_web_lg/en_core_web_lg-3.7.1/vocab/vectors filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lfs -text
