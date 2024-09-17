@@ -31,7 +31,7 @@ La repository contiene le seguenti cartelle e i seugenti documenti:
 - doc\: contiene il report del progetto che include la metologia, i risultati e le conclusioni.
 - data\: contiene gli 85 testi in formato .txt 
 - features_extraction\:
-    -**features.py**: script delle funzioni per l'estrazione delle caratteristiche stilistiche
+    - **features.py**: script delle funzioni per l'estrazione delle caratteristiche stilistiche
 - src\:
     - **dataset.py**: script usato per la creazione del Dataset
     - **model.py**: script di addestramento e valutazione del modello di *Machine Learning*
